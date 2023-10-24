@@ -30,6 +30,7 @@ updates:
       python-requirements:
         patterns:
           - "*"
+    open-pull-reqeusts-limit: 0
 
   - package-ecosystem: "pip"
     directory: "/scripts"
@@ -39,3 +40,4 @@ updates:
       python-requirements:
         patterns:
           - "*"
+    open-pull-reqeusts-limit: 0
