@@ -42,7 +42,7 @@ const Layout = () => {
                             </li>
                         </ul>
                     </nav>
-                    <h4 className={styles.headerRightText}>Resource Data: Azure OpenAI Cognitive Search</h4>
+                    <h4 className={styles.headerRightText}>Resource Data: Azure OpenAI using Cognitive Search</h4>
                     {useLogin && <LoginButton />}
                 </div>
             </header>
